@@ -10,4 +10,4 @@ It includes insights on:
 - Interactive slicers for time-based filtering
 
 📊 Built using Power BI  
-📁 File: `Business_Insights_360.pdf`
+📁 File: [Business_Insights_360.pdf](Business_Insights_360.pdf)
